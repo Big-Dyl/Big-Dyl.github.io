@@ -1,6 +1,7 @@
 # Big-Dyl.github.io
 <h1 align="center">Hi 👋, I'm Dylan Liu</h1>
 <h3 align="center">A UCI freshman looking to learn the mysterious ways of computer science</h3>
+<h3 align="center">Welcome to my personal website!</h3>
 
 - 🌱 I’m currently learning **how to make web apps with react and typescript**
 
