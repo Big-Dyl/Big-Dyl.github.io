@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **dylanjliu11@gmail.com**
 
-- 📄 Know about my experiences [big-dyl.github.io/resume.pdf](big-dyl.github.io/resume.pdf)
+- 📄 Know about my experiences [big-dyl.github.io/resume.pdf](https://big-dyl.github.io/resume.pdf)
 
 - ⚡ Fun fact **I can run a mile in 6 and 27 seconds**
 
