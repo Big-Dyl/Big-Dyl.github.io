@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences [big-dyl.github.io/resume.pdf](https://big-dyl.github.io/resume.pdf)
 
-- ⚡ Fun fact **I can run a mile in 6 and 27 seconds**
+- ⚡ Fun fact **I can run a mile in 6 minutesand 27 seconds**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
